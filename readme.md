@@ -2,6 +2,8 @@
 
 A fully-featured, JavaScript-based recipe website offering users a seamless experience to discover, search, and save recipes. The platform includes authentication, recipe bookmarking, cart management, pagination, and more—all managed entirely on the frontend.
 
+![Recipe Website Screenshot](https://github.com/pushan-alagiya/Recipy/blob/main/Screenshot%20From%202024-11-09%2021-37-06.png?raw=true)
+
 ## Features
 
 - **User Authentication**: Allows users to sign up, log in, and log out, with user credentials stored in local storage.
